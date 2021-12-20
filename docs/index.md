@@ -1,4 +1,4 @@
-## 一键连vpnfly安卓端、苹果端以及电脑端客户端下载和使用指南
+## 一键连vpnfly使用指南
 
 You can use the [editor on GitHub](https://github.com/vpnfly/vpnfly.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
